@@ -5,8 +5,9 @@ Requirements: Python 2.7, modern web-browser
 
 Context: One of the best features (atleast in my opinion) of Cube Base is the simple yet powerful flow-chart interface that it provides to visualize the contents of a travel demand model written in Cube Voyager. However, the interface could use a few updates to make it more functional. One such feature upgrade would be the ability to view the entire model structure on a single screen-shot, as opposed to navigating through the different levels of hierarchy one at-a-time. 
 So, I took a crack at it with a python script. This python script extracts the relevant information from the thankfully human readable .app files (you can open them with notepad++) and writes it to a JSON file. Further, this JSON file is passed through a D3.js template to produce a beautiful collapsible tree layout. 
+
 Example:
-refer the word doc in the ./docs folder
+refer the word document in the ./docs folder
  
 Download: http://github.com/akomma/d3AppManager.git
 
