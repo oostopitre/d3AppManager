@@ -12,6 +12,7 @@ refer the word document in the ./docs folder
 Download: http://github.com/akomma/d3AppManager.git
 
 Usage: 
+
 1.  Copy all the .app files from your model into the ‘sample Catalog’ folder
 2.	Make sure you point to the main parent application in line#10 of the python script. Save .py file
 3.	Run the python program (written on ver 2.7.3), it produces ‘sampleCatalog.JSON’ file
